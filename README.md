@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goginava
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning to develop Online Applications
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning to analyze data better.
 - 💞️ I’m looking to collaborate on develop a huge app.
 - 📫 How to reach me: Per mail info@goginava.com
 
