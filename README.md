@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Goginava
-- 👀 I’m interested PHP, CSS & JavaScript
+- 👋 Hi, I’m David Goginava
+- 👀 I’m interested HTML, CSS & JavaScript
 - 🌱 I’m currently learning to become a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on develop a huge app.
 - 📫 How to reach me: Per mail info@goginava.com
